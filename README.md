@@ -1,10 +1,10 @@
 # Super Trunfo de Países 🌎
 
-## sobre o projeto
+## Sobre o projeto
 
-este projeto é um jogo de cartas estilo "super trunfo" criado em linguagem c, desenvolvido no clion usando o padrão c11. o objetivo do jogo é comparar atributos de dois países para determinar qual vence em uma rodada.
+Este projeto é um jogo de cartas estilo "super trunfo" criado em linguagem C, desenvolvido no Clion usando o padrão C11. o objetivo do jogo é comparar atributos de dois países para determinar qual vence em uma rodada.
 
-o projeto foi desenvolvido em etapas:
+O projeto foi desenvolvido em etapas:
 - cadastro manual de cartas
 - menu interativo com escolha de atributos
 - comparação simples entre cartas
@@ -15,7 +15,7 @@ o projeto foi desenvolvido em etapas:
 
 ---
 
-## funcionalidades principais
+## Funcionalidades principais
 
 ✅ cadastro de cartas pré-definidas  
 ✅ escolha de dois atributos diferentes para comparar  
@@ -29,25 +29,25 @@ o projeto foi desenvolvido em etapas:
 
 ---
 
-## tecnologias utilizadas
+## Tecnologias utilizadas
 
-- linguagem c (c11)
-- ide: clion
+- linguagem C (C11)
+- IDE: Clion
 - padrão de codificação limpo e comentado
 - uso de estruturas `struct`, `switch`, `if-else aninhado` e `operador ternário`
 
 ---
 
-## como executar o projeto
+## Como executar o projeto
 
 1. clone o repositório:
 ```bash
 git clone https://github.com/seu-usuario/super-trunfo-c.git
 ```
 
-2. abra o projeto no clion
+2. Abra o projeto no Clion
 
-3. compile e execute o programa
+3. Compile e execute o programa
 
 ou, se preferir compilar via terminal:
 ```bash
